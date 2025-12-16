@@ -1,4 +1,4 @@
-# 📊 ENEM 2023 Data Analysis
+# ENEM 2023 Data Analysis
 
 Este projeto realiza uma análise exploratória dos **microdados do ENEM 2023**, utilizando **Python**, **SQL (SQLite)** e visualizações gráficas.  
 O objetivo é extrair **insights relevantes sobre desempenho, perfil socioeconômico e características dos participantes**.
@@ -53,7 +53,7 @@ Durante a análise exploratória, foram respondidas perguntas como:
 
 ---
 
-## ▶️ Como Executar Localmente
+## Como Executar Localmente
 
 1. Clone o repositório:
 ```bash
@@ -70,6 +70,6 @@ cd enem-2023-analysis
 
 **Gustavo Brandão**
 
-📧 E-mail: gubrandaods@gmail.com  
-🐙 GitHub: [github.com/gubrandaods7](https://github.com/gubrandaods7)  
-🔗 LinkedIn: [linkedin.com/in/gustavo-brandao-0b7635197](https://www.linkedin.com/in/gustavo-brandao-0b7635197)
+E-mail: gubrandaods@gmail.com  
+GitHub: [github.com/gubrandaods7](https://github.com/gubrandaods7)  
+LinkedIn: [linkedin.com/in/gustavo-brandao-0b7635197](https://www.linkedin.com/in/gustavo-brandao-0b7635197)
